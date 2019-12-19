@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [GMK](https://geekhack.org/index.php?topic=100727.0)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [GMK](https://geekhack.org/index.php?topic=100727.0).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/gmk](https://draculatheme.com/gmk).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gmk/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+![pikku-allu](https://user-images.githubusercontent.com/398893/71210146-93947500-228b-11ea-9cf9-f9e37c48a2b5.jpeg) |
+--- |
+pikku-allu |
 
 ## License
 
